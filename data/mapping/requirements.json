@@ -1,0 +1,27 @@
+{
+    "properties": {
+        "e1": {
+            "label_de": "Nutzerhöhe"
+        },
+        "e2": {
+            "label_de": "Nutzerbreite"
+        }
+    },
+    "functions": {
+        "f1": {
+            "label_de": "Greiffähgikeit (Hand)"
+        },
+        "f2": {
+            "label_de": "Ziehbewegung (Hand)"
+        },
+        "f3": {
+            "label_de": "Drückbewegung (Hand)"
+        },
+        "f4": {
+            "label_de": "Steigfähigkeit (Beine und Füße)"
+        },
+        "f5": {
+            "label_de": "Fortbewegung"
+        }
+    }
+}

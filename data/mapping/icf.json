@@ -1,0 +1,20 @@
+{
+    "b7-foot": {
+        "label_de": "b7 Neuromuskuloskeletale und Bewegungsbezogene Funktionen (Beine und Füße)"
+    },
+    "b7-hand": {
+        "label_de": "b7 Neuromuskuloskeletale und Bewegungsbezogene Funktionen (Hände)"
+    },
+    "d450": {
+        "label_de": "d450 Gehen"
+    },
+    "d465": {
+        "label_de": "d465 Sich unter Verwendung von Geräten/Ausrüstung fortbewegen"
+    },
+    "x101": {
+        "label_de": "x101 Nutzerhöhe (Person + Ausrüstung)"
+    },
+    "x102": {
+        "label_de": "x102 Nutzerbreite (Person + Ausrüstung)"
+    }
+}

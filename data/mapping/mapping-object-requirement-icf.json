@@ -1,0 +1,33 @@
+{
+    "object-to-requirement": {
+        "swing-door": {
+            "affects-properties": ["e1", "e2"                               ],
+            "affects-functions":  [             "f1", "f2", "f3"            ]
+        },
+        "slide-door": {
+            "affects-properties": ["e1", "e2"                               ],
+            "affects-functions":  [                         "f3"            ]
+        },
+        "window": {
+            "affects-properties": [                                         ],
+            "affects-functions":  [             "f1", "f2", "f3"            ]
+        },
+        "steps": {
+            "affects-properties": [                                         ],
+            "affects-functions":  [                               "f4", "f5"]
+        },
+        "ramp": {
+            "affects-properties": [      "e2"                               ],
+            "affects-functions":  [                                     "f5"]
+        }
+    },
+    "requirement-to-icf-elements": {
+        "e1": ["x101"                                                     ],
+        "e2": [       "x102"                                              ],
+        "f1": [              "b7-hand"                                    ],
+        "f2": [                        "b7-hand"                          ],
+        "f3": [                        "b7-hand"                          ],
+        "f4": [                                  "b7-foot", "d450"        ],
+        "f5": [                                  "b7-foot", "d450", "d465"]
+    }
+}
