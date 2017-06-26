@@ -1,4 +1,4 @@
-# Use case 1: BVL place database
+# Use case 1: BVL location database
 
 The objective of this use case is to test the model using the location database of the Behindertenverband Leipzig e.V. (BVL). Point of view is from a structure and to potential ICF elements.
 
@@ -11,7 +11,7 @@ The objective of this use case is to test the model using the location database 
 ### Main questions
 
 1. **Which locations in Leipzig have structures, which impede somebody?** 
-2. **And how are impeded ones characterized?**
+2. **And how are impeded ones characterized (described by the [ICF](http://www.who.int/classifications/icf/en/))?**
 
 
 ### How to interpret the interim results?
