@@ -1,20 +1,18 @@
 # from-object-to-icf
 
-This repository contains files and information around a research project of mine. The project is about a **model** to deduce why a structure/object becomes to a barrier and which groups of people it impedes. Main approach is "ask" which requirements something has (e.g. doors usually force you to not be broader then a certain width) and which [ICF](http://www.who.int/classifications/icf/en/) elements/components it affects.
+This repository contains technical information around a research project of mine, called from-barrier-to-icf. The project is about a **model** to deduce why a structure/object becomes to a barrier and which groups of people it impedes. Main approach is "ask" which requirements something has (e.g. doors usually force you to not be broader then a certain width) and which [ICF](http://www.who.int/classifications/icf/en/) elements/components it affects.
 
-**Background information can be found in the [wiki](https://github.com/k00ni/from-object-to-icf/wiki)!**
+There is a non-technical documentation available. You can find at: https://www.gitbook.com/book/k00ni/from-barrier-to-icf/details
 
-## How to contribute?
+## Contribution
 
-Regardless of the topic, please open an issue [here](https://github.com/k00ni/from-object-to-icf/issues). The issue tracker is the place to discuss further changes.
+### Technical
 
-If you want to contribute to the **wiki**, you could either try the [technical way](https://stackoverflow.com/questions/10642928/how-to-pull-request-a-wiki-page-on-github/11481887#11481887) or you simply add it to the issue. Approved changes will be added manually afterwards.
+If you have a technical contribution, please create an issue [here](https://github.com/k00ni/from-object-to-icf/issues).
 
-## License
+### Non-technical
 
-The code in this repository is licensed under the terms of the [MIT license](https://choosealicense.com/licenses/mit/).
-
-Textual content (like the Wiki) is licensed under the terms of the [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+If you have a non-technical contribution, please go to Gitbooks and start a discussion [here](https://www.gitbook.com/book/k00ni/from-barrier-to-icf/discussions).
 
 ## Use cases
 
@@ -23,3 +21,9 @@ Textual content (like the Wiki) is licensed under the terms of the [Creative Com
 Since 2015, i am working with the Behindertenverband Leipzig e.V. and help them to improve their data sets, about locations in Leipzig and their degree of accessibility ([further information in German](https://www.leds-projekt.de/de/aktuelles/2016/zusammenarbeit-mit-behindertenverband.html)).
 
 Further information [here](https://github.com/k00ni/from-object-to-icf/tree/master/usecase1-bvl).
+
+## License
+
+The code in this repository is licensed under the terms of the [MIT license](https://choosealicense.com/licenses/mit/).
+
+Textual content is licensed under the terms of the [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/).
