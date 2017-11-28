@@ -4,6 +4,12 @@ This repository contains files and information around a research project of mine
 
 **Background information can be found in the [wiki](https://github.com/k00ni/from-object-to-icf/wiki)!**
 
+## How to contribute?
+
+Regardless of the topic, please open an issue [here](https://github.com/k00ni/from-object-to-icf/issues). The issue tracker is the place to discuss further changes.
+
+If you want to contribute to the **wiki**, you could either try the [technical way](https://stackoverflow.com/questions/10642928/how-to-pull-request-a-wiki-page-on-github/11481887#11481887) or you simply add it to the issue. Approved changes will be added manually afterwards.
+
 ## License
 
 The code in this repository is licensed under the terms of the [MIT license](https://choosealicense.com/licenses/mit/).
