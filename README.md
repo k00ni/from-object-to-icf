@@ -2,7 +2,7 @@
 
 This repository contains technical information around a research project of mine, called from-barrier-to-icf. The project is about a **model** to deduce why a structure/object becomes to a barrier and which groups of people it impedes. Main approach is "ask" which requirements something has (e.g. doors usually force you to not be broader then a certain width) and which [ICF](http://www.who.int/classifications/icf/en/) elements/components it affects.
 
-There is a non-technical documentation available. You can find at: https://www.gitbook.com/book/k00ni/from-barrier-to-icf/details
+In this [OSF repository](https://osf.io/dqtjs) conceptual and further documentation is collected and maintained. It is the main source and should be a good starting point, if you want to get familiar with this model.
 
 ## Current status
 
