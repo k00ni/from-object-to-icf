@@ -4,6 +4,10 @@ This repository contains technical information around a research project of mine
 
 There is a non-technical documentation available. You can find at: https://www.gitbook.com/book/k00ni/from-barrier-to-icf/details
 
+## Current status
+
+I am not able to work on this topic at the moment. But i monitor the Github repository as well as the OSF project closely. So, if you want to contribute or contact me.
+
 ## Contribution
 
 ### Technical
@@ -12,7 +16,7 @@ If you have a technical contribution, please create an issue [here](https://gith
 
 ### Non-technical
 
-If you have a non-technical contribution, please go to Gitbooks and start a discussion [here](https://www.gitbook.com/book/k00ni/from-barrier-to-icf/discussions).
+If you have a non-technical contribution, like a comment or want to contribute to the wiki, please go to OSF [here](https://osf.io/dqtjs). Participation requires an OSF account though. 
 
 ## Use cases
 
