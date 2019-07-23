@@ -16,7 +16,7 @@ If you have a technical contribution, please create an issue [here](https://gith
 
 ### Non-technical
 
-If you have a non-technical contribution, like a comment or want to contribute to the wiki, please go to OSF [here](https://osf.io/dqtjs). Participation requires an OSF account though. 
+If you have a non-technical contribution, like a comment or want to contribute to the wiki, please go to OSF [here](https://osf.io/dqtjs). Participation requires an OSF account tough. 
 
 ## Use cases
 
