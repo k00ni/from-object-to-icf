@@ -6,7 +6,7 @@ In this [OSF repository](https://osf.io/dqtjs) conceptual and further documentat
 
 ## Current status
 
-I am not able to work on this topic at the moment. But i monitor the Github repository as well as the OSF project closely. So, if you want to contribute or contact me.
+I am not able to work on this topic at the moment. But i monitor the Github repository as well as the OSF project closely. I am open for ideas and contributions.
 
 ## Contribution
 
